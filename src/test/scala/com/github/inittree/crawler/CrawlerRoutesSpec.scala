@@ -1,5 +1,6 @@
+package com.github.inittree.crawler
+
 import cats.effect.IO
-import com.github.inittree.crawler.CrawlerRoutes
 import com.github.inittree.crawler.alg.Crawler
 import com.github.inittree.crawler.dto.UrlsInfoResponse
 import io.circe.Json

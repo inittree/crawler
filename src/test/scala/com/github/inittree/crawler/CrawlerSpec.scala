@@ -1,3 +1,5 @@
+package com.github.inittree.crawler
+
 import cats.effect.IO
 import com.github.inittree.crawler.alg.Crawler
 import munit.CatsEffectSuite
